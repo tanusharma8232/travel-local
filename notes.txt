@@ -1,0 +1,14 @@
+Travel Local Project
+
+Created on: 23-Jun-2026
+
+Goal:
+Build a travel platform powered by local insights.
+
+Tech Stack:
+- React
+- TypeScript
+- ASP.NET Core Web API
+- SQL Server
+- Git
+- GitHub
